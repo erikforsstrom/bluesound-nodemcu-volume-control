@@ -15,8 +15,8 @@
 #include <Encoder.h>
 
 // Network configuration
-const char* ssid = "Eljest";        // Replace with your WiFi name
-const char* password = "1111111119"; // Replace with your WiFi password
+const char* ssid = "WiFi name";        // Replace with your WiFi name
+const char* password = "WiFi password"; // Replace with your WiFi password
 
 // Bluesound configuration
 const String ipAddress = "http://192.168.50.49:11000/";
